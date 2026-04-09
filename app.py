@@ -1,5 +1,5 @@
 """
-SmartAIApp - Smart expense tracking with receipt scanning
+SmartAIApp - Summarizes meeting transcripts automatically
 Built with AI Trend App Builder
 """
 
@@ -13,16 +13,16 @@ app = Flask(____name____)
 def home():
     return jsonify({
         'app': 'SmartAIApp',
-        'description': 'Smart expense tracking with receipt scanning',
+        'description': 'Summarizes meeting transcripts automatically',
         'status': 'running',
-        'built_at': '2026-03-28 09:00:02'
+        'built_at': '2026-04-09 09:00:27'
     })
 
 @app.route('/api/trend')
 def get_trend():
     return jsonify({
-        'topic': 'AI Expense Tracker',
-        'keywords': ["finance AI","receipt scanner","budget"]
+        'topic': 'AI Meeting Summarizer',
+        'keywords': ["meeting AI","transcription","summary bot"]
     })
 
 if __name__ == '__main__':
