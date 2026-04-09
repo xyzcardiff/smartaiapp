@@ -1,9 +1,9 @@
 # SmartAIApp
 
-Smart expense tracking with receipt scanning
+Summarizes meeting transcripts automatically
 
 ## 🎯 Inspired By
-Trending topic: **AI Expense Tracker**
+Trending topic: **AI Meeting Summarizer**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -12,9 +12,9 @@ Trending topic: **AI Expense Tracker**
 
 ## 🛠 Tech Stack
 - Python
-- FastAPI
-- OCR
-- React Native
+- Django
+- Whisper API
+- React
 
 ## 📦 Installation
 
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-03-28*
+*Date: 2026-04-09*
