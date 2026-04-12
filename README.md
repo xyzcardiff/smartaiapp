@@ -1,9 +1,9 @@
 # SmartAIApp
 
-Summarizes meeting transcripts automatically
+Creates flashcards and quizzes from notes
 
 ## 🎯 Inspired By
-Trending topic: **AI Meeting Summarizer**
+Trending topic: **AI Study Assistant**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -11,9 +11,9 @@ Trending topic: **AI Meeting Summarizer**
 - Ready to deploy
 
 ## 🛠 Tech Stack
-- Python
-- Django
-- Whisper API
+- Node.js
+- Express
+- OpenAI API
 - React
 
 ## 📦 Installation
@@ -21,13 +21,13 @@ Trending topic: **AI Meeting Summarizer**
 ```bash
 git clone https://github.com/xyzcardiff/smartaiapp.git
 cd smartaiapp
-pip install -r requirements.txt
+npm install
 ```
 
 ## 🏃 Running
 
 ```bash
-python app.py
+npm start
 ```
 
 ## 📝 License
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-04-09*
+*Date: 2026-04-12*
